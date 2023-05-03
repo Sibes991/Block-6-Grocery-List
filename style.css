@@ -1,0 +1,71 @@
+body {
+  background-color: #53c1ae;
+}
+
+header {
+  text-align: center;
+}
+
+.main-header {
+  color: #fbff14;
+  margin-top: 0;
+  padding-top: 2rem;
+  text-transform: uppercase;
+}
+
+section {
+  background-color: #e4b4a0;
+  border: 5px solid #e64500;
+  border-radius: 1rem;
+  margin: 2rem auto;
+  padding: 2rem;
+  width: 60%;
+}
+
+.pantry-section {
+  background-color: #a5a6d5;
+}
+
+.freezer-section {
+  background-color: #aed6f1;
+}
+
+h2 {
+  background-color: #d16500;
+  color: white;
+  font-size: 1.5rem;
+  margin: 0;
+  padding: 0.5rem 1rem;
+  text-transform: uppercase;
+}
+
+.pantry-image {
+  display: block;
+  margin: 2rem auto;
+  padding: 1rem;
+  border: 1px solid #ccc;
+  max-width: 60%;
+}
+.freezer-image {
+  display: block;
+  margin: 2rem auto;
+  padding: 1rem;
+  border: 1px solid #ccc;
+  max-width: 60%;
+}
+
+.pantry-image {
+  border: 5px solid #e4ff5c;
+}
+
+.freezer-image {
+  border: 5px solid #0e93ec;
+}
+
+.pantry-list {
+  list-style: square;
+}
+
+.freezer-list {
+  list-style: decimal;
+}
